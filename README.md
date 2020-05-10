@@ -38,3 +38,6 @@ To start docker compose in detach mode use docker-compose up -d.
 Use your web browser and open it using http://ipaddress:portnumber .
 7. Stop the docker-compose
 Stop the container service using docker-compose stop.
+
+
+Special Thanks to Vimal Daga sir and the whole IIEC community for giving me the opportunity of making this project happen.
